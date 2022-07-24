@@ -1,0 +1,23 @@
+h3{
+    color: blueviolet;
+     background-color: blanchedalmond; 
+    font-style: italic;
+    width: 300px;
+    height: 30px;
+
+}
+.ina{
+    /* background-color: burlywood; */
+    font-style: italic;
+    color: cyan;
+    /* background-color: burlywood; */
+    
+}
+.mina{
+    color: darkolivegreen;
+    font-style: italic;
+}
+.dika{
+    color: deeppink;
+    font-style: italic;
+}
